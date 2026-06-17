@@ -13,8 +13,7 @@
 1. Some team members were unfamiliar with GitHub's interface and needed time to locate where to create and edit files.
 2. Uncertainty about what to include in the first commit and how detailed the README should be at this early stage.
 ### Evidence of Work
-- GitHub repository link: https://github.com/minhtetnaing019/ict105-team2-MVP
-
+- GitHub repository link:https://github.com/eaintshwes68-source/ICT105-Team-2-MVP 
 
 ### Decision Made This Week
 The team decided on a repository naming convention and agreed that all members would have direct access to commit changes to the main branch for this early setup phase.
